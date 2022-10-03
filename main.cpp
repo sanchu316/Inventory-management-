@@ -61,7 +61,7 @@ int menuSelection(void)
 
     int select;
 
-    cout<<"\t\t Apna Bazar!!! "<<endl;
+    cout<<"\t\tINVENTORY MANAGEMENT!!! "<<endl;
     cout<<"1. Add new item"<<endl;
     cout<<"2. Print item list"<<endl;
     cout<<"3. Find item by ID"<<endl;
